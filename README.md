@@ -1174,4 +1174,4 @@
 | <img src="https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />           | `https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white`           |
 
 <h1>Credits for:</h1>
- <a href = "https://github.com/alexandresanlim"/>
+ <a href = "https://github.com/alexandresanlim">Alexandre Sanlim</a>
