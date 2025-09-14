@@ -1,3 +1,7 @@
+<h1>Credits for:</h1>
+ <strong><a href = "https://github.com/alexandresanlim">Alexandre Sanlim</a></strong>
+
+
 ## Menu
 
   - [🧑🏼‍🏭 Static](#-static)
@@ -1172,6 +1176,3 @@
 | <img src="https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white" />         | `https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white` |
 | <img src="https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />           | `https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white`           |
-
-<h1>Credits for:</h1>
- <a href = "https://github.com/alexandresanlim">Alexandre Sanlim</a>
