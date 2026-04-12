@@ -689,6 +689,7 @@
 
 | Badge                                                                                                                      | URL                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />             | `https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white`          F|
 | <img src="https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />    | `https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white` |
 | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />                             | `https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />                     | `https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white`                  |
