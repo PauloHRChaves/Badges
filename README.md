@@ -25,7 +25,7 @@
     - [🏠 HomeLab](#-homelab-)
     - [👩‍💻 IDE](#-ide-)
     - [🔌 IDE Plugin](#-ide-plugin-)
-    - [👩‍💻 Languages](#-languages-)
+    - [✏️ Languages](#-languages-)
     - [🧐 Linters](#-linters-)
     - [📜 Licenses](#-licenses-)
     - [🎡 Low Code Platforms](#-low-code-platforms-)
@@ -49,10 +49,6 @@
     - [🥅 Work/Jobs](#-workjobs-)
     - [⏱️ Workflow Platforms](#-workflow-platforms-)
     - [💻 Workspace Spec](#-workspace-spec-)
-  - [🔁 Dynamic](#-dynamic)
-
-- [How To Contribute](#-how-to-contribute-)
-- [Creators](#creators-)
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
@@ -689,7 +685,7 @@
 | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000" /> | `https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000` |
 
-## 👩‍💻 Languages [🔝](#menu)
+## ✏️ Languages [🔝](#menu)
 
 | Badge                                                                                                                      | URL                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
